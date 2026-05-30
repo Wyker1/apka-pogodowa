@@ -9,7 +9,7 @@
   "lang" : "pl-PL",
   "dir" : "ltr",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/apka-pogodowa/",
   "icons" : [
     {
       "src" : "./icon.png",
